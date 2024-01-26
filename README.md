@@ -1,6 +1,6 @@
 ![MasterHead](https://media3.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)
 
-### Hi, I'm Charday!
+<h1 align="center">Hi, I'm Charday!</h1> 
 
 👨‍💻 Mobile iOS Developer sharing my journey in tech and exploring how to better communicate with computers </br>
 💭 Currently exploring data structures and algorithms</br>
