@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi, I'm Charday!</h1> 
 
-👨‍💻 Mobile iOS Developer sharing my journey in tech and exploring how to better communicate with computers </br>
+👨‍💻 Software Engineer sharing my journey in tech and exploring how to better communicate with computers </br>
 💭 Currently exploring data structures and algorithms</br>
 🪴 Motivated by inspiring projects </br>
-🔭 Working on **Mobile Food Order App** </br>
+🔭 Working on Backend Development </br>
 📫 How to reach me **charday.neal@gmail.com** </br>
 
 
