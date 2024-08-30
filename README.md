@@ -6,7 +6,6 @@
 💭 Currently exploring Python and Full Stack Development</br>
 🪴 Motivated by inspiring projects </br>
 🔭 Working on GUIs with Python </br>
-📫 How to reach me **charday.neal@gmail.com** </br>
 
 
 # 💻 Tech Stack
